@@ -1,0 +1,1 @@
+This is the spring cloud config server for MediLabo-Solutions_P9_OC repository 
